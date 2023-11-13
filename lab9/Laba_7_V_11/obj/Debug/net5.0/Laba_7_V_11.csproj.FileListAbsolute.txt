@@ -1,0 +1,16 @@
+F:\C#_repo\Laba_7_V_11\bin\Debug\net5.0\Laba_7_V_11.exe
+F:\C#_repo\Laba_7_V_11\bin\Debug\net5.0\Laba_7_V_11.deps.json
+F:\C#_repo\Laba_7_V_11\bin\Debug\net5.0\Laba_7_V_11.runtimeconfig.json
+F:\C#_repo\Laba_7_V_11\bin\Debug\net5.0\Laba_7_V_11.runtimeconfig.dev.json
+F:\C#_repo\Laba_7_V_11\bin\Debug\net5.0\Laba_7_V_11.dll
+F:\C#_repo\Laba_7_V_11\bin\Debug\net5.0\ref\Laba_7_V_11.dll
+F:\C#_repo\Laba_7_V_11\bin\Debug\net5.0\Laba_7_V_11.pdb
+F:\C#_repo\Laba_7_V_11\obj\Debug\net5.0\Laba_7_V_11.csproj.AssemblyReference.cache
+F:\C#_repo\Laba_7_V_11\obj\Debug\net5.0\Laba_7_V_11.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#_repo\Laba_7_V_11\obj\Debug\net5.0\Laba_7_V_11.AssemblyInfoInputs.cache
+F:\C#_repo\Laba_7_V_11\obj\Debug\net5.0\Laba_7_V_11.AssemblyInfo.cs
+F:\C#_repo\Laba_7_V_11\obj\Debug\net5.0\Laba_7_V_11.csproj.CoreCompileInputs.cache
+F:\C#_repo\Laba_7_V_11\obj\Debug\net5.0\Laba_7_V_11.dll
+F:\C#_repo\Laba_7_V_11\obj\Debug\net5.0\ref\Laba_7_V_11.dll
+F:\C#_repo\Laba_7_V_11\obj\Debug\net5.0\Laba_7_V_11.pdb
+F:\C#_repo\Laba_7_V_11\obj\Debug\net5.0\Laba_7_V_11.genruntimeconfig.cache
